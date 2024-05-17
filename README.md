@@ -1,4 +1,4 @@
-### Greetings and welcome! 👋  [Portfolio currently live here](https://fjaqu1n0.github.io/portfolio/)
+### Greetings and welcome! 👋  [Check out my portfolio here](https://fjaqu1n0.github.io/portfolio/)
 <!--
 **fjaqu1n0/fjaqu1n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
